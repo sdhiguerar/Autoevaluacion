@@ -78,8 +78,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── Configuración ──────────────────────────────────────────────
-DOCENTE_USER = "docente"
-DOCENTE_PASS = "curso2025"
+DOCENTE_USER = "sebastian"
+DOCENTE_PASS = "profe2024"
 CSV_FILE     = "respuestas_autoevaluacion.csv"
 
 CRITERIOS = [
